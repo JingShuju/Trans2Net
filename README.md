@@ -1,4 +1,4 @@
-# Trans2Net: A local and global-aid vector transformers network for point cloud semantic segmentation of complex MEP systems
+# Semantic segmentation of MEP systems point clouds within buildings based on a novel multi-class dataset and local-global vector transformer deep learning
 
 
 The code and dataset will be publically opened after the paper is published.
