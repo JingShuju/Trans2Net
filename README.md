@@ -1,4 +1,4 @@
-# Semantic segmentation of MEP systems point clouds within buildings based on a novel multi-class dataset and local-global vector transformer deep learning
+# Semantic segmentation of building MEP systems in point clouds using a novel multi-class dataset and local-global vector transformer deep learning
 
 
 The code and dataset will be publically opened after the paper is published.
