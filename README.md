@@ -2,7 +2,7 @@
 
 
 We greatly appreciate your interest in our work. As our related research is still ongoing, we anticipate releasing the dataset upon the completion of the work. 
-If you have an urgent request, please feel free to contact the authors. You can reach us via email at jingshujusdu@hotmail.com or shuju.jing@g.skku.edu, or by WeChat ID: jingshuju.
+If you have an urgent request, please feel free to contact the authors. You can reach us via email at shuju.jing@g.skku.edu or jingshujusdu@hotmail.com, or by WeChat ID: jingshuju.
 
 Proposed Trans2Net
 -
