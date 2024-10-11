@@ -1,7 +1,8 @@
-# Semantic segmentation of building MEP systems in point clouds using a novel multi-class dataset and local-global vector transformer deep learning
+# Improved building MEP systems semantic segmentation in point clouds using a novel multi-class dataset and local–global vector transformer network
 
 
-The code and dataset will be publically opened after the paper is published.
+We greatly appreciate your interest in our work. As our related research is still ongoing, we anticipate releasing the dataset upon the completion of the work. 
+If you have an urgent request, please feel free to contact the authors. You can reach us via email at jingshujusdu@hotmail.com or shuju.jing@g.skku.edu, or by WeChat ID: jingshuju.
 
 Proposed Trans2Net
 -
